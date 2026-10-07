@@ -1,0 +1,8 @@
+.env
+.venv/
+gamerverse/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+chroma_db/
+*.log
